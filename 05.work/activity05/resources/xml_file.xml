@@ -1,0 +1,18 @@
+<Stock>
+  <products>
+    <products>
+      <name>Bombril</name>
+      <price>3.2</price>
+      <manufacturer>Bombril</manufacturer>
+      <manufacturingDate></manufacturingDate>
+      <expirationDate></expirationDate>
+    </products>
+    <products>
+      <name>Esponja</name>
+      <price>1.1</price>
+      <manufacturer>Bombril</manufacturer>
+      <manufacturingDate></manufacturingDate>
+      <expirationDate></expirationDate>
+    </products>
+  </products>
+</Stock>

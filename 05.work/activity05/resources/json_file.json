@@ -1,0 +1,15 @@
+{
+  "products" : [ {
+    "name" : "Bombril",
+    "price" : 3.2,
+    "manufacturer" : "Bombril",
+    "manufacturingDate" : "",
+    "expirationDate" : ""
+  }, {
+    "name" : "Esponja",
+    "price" : 1.1,
+    "manufacturer" : "Bombril",
+    "manufacturingDate" : "",
+    "expirationDate" : ""
+  } ]
+}
